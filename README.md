@@ -30,7 +30,7 @@ source venv/bin/activate
 
 5. Buka folder *dist* :
 ```
-cd math-package
+cd dist
 ```
 
 6. Cari file yang memiliki eksitensi *.whl* (file wheel) dengan menggunakan perintah `ls`
