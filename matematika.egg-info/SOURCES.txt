@@ -1,0 +1,11 @@
+README.md
+setup.py
+matematika/__init__.py
+matematika/hello.py
+matematika/operasi.py
+matematika.egg-info/PKG-INFO
+matematika.egg-info/SOURCES.txt
+matematika.egg-info/dependency_links.txt
+matematika.egg-info/top_level.txt
+test/__init__.py
+test/test.py
